@@ -1,7 +1,7 @@
 # Simple-Chess-Engine
 
 This is a browser based implementation of Alan Turing and David Champernowne's Turochamp chess engine, which they wrote in 1948.
-I don't think this is an accurate implementation... it's got a lot of chinks for me to claim that.
+I don't think this is an accurate implementation... but meh wth!
 
 For more information, do read the beautiful paper :-
 https://docs.google.com/file/d/0B0xb4crOvCgTNmEtRXFBQUIxQWs
