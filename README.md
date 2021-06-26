@@ -10,12 +10,6 @@ Also read the Chessbase article :- https://en.chessbase.com/post/reconstructing-
 
 ### Building the project
 
-Dev build and starting a dev server.
-```
-npm run dev
-``` 
+to install all the node modules: npm init 
 
-Production Build
-```
-npm run build
 ```
